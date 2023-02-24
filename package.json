@@ -1,7 +1,7 @@
 {
-  "name": "@yx-frame/userequest",
-  "version": "0.0.1",
-  "description": "vue3 ahook useRequest",
+  "name": "@yx-frame/request",
+  "version": "0.0.2",
+  "description": "vue3 ahooks useRequest",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.mjs",
   "typings": "dist/index.d.ts",
